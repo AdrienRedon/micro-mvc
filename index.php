@@ -5,7 +5,7 @@ class App {
     /**
      * Register route with HTTP method (get, post, put, patch, delete)
      * 
-     * @param  string $method Name of the HTTP
+     * @param  string $method Name of the HTTP method
      * @param         $action URL and Callback
      * @return App    $this   
      */
